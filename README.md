@@ -12,14 +12,8 @@
 - 🔭 Vizando ser aprovado na *USP* para estudar física (com especialização em astrofísica)
 
 ##
-<div style="display: inline_block" align="center">
-  <a href="https://www.youtube.com/@mitchzito">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a herf="https://www.instagram.com/_mitchzito/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a herf="daniel.augusto.milanez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<div>
+  <a href="https://instagram.com/_mitchzito?igshid=ZDc4ODBmNjlmNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/@mitchzito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://wa.me/qr/TDNZIYXJPM47L1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>

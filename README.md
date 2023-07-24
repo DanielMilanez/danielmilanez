@@ -1,8 +1,8 @@
 ##
 <div>
   <a hef="https://beacons.ai/danielmilanez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=synthwave"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
 </div>
 
 ## Mais sobre mim

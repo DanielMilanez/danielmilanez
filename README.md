@@ -21,7 +21,7 @@
 
 ## Skills
   <div>
-    <a href"[(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"></a>
+    <a href"[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"></a>
   </div>
 ##
 </div>

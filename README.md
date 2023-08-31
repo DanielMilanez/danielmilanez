@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
 </div>
 
-## Mais sobre mim
+## Sobre
 
 - ⚡ Hoje trabalho como desenvolvedor e suporte N1
 - 🐢 Estudando *.NET* e *C#*

@@ -1,6 +1,6 @@
 <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="">Daniel Augusto</a>
+    <a href="https://www.linkedin.com/in/daniel-augusto-c-milanez/">Daniel Augusto</a>
   </h1>
 <p>
     - ⚡ Hoje trabalho como desenvolvedor e suporte N1 <br>

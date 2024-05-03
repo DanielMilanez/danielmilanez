@@ -5,7 +5,7 @@
 <p>
     - ⚡ Hoje trabalho como desenvolvedor e suporte N1 <br>
     - 🐢 Estudando <i><b>.NET e C#</b></i> <br>
-    - 🔭 Vizando ser aprovado na <i><b>USP</b></i> para estudar física (com especialização em astrofísica) <br>
+    - 🔭 Cursando engenharia da computação na <i><b>UFBRA</b></i> :) <br>
  </p>
 
 ##

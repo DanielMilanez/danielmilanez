@@ -3,8 +3,8 @@
     <a href="https://www.linkedin.com/in/daniel-augusto-c-milanez/">Daniel Augusto</a>
   </h1>
 <p>
-    - 🐢 Estudando <i><b>.NET e C#</b></i> <br>
-    - 🔭 Cursando engenharia da computação na <i><b>UFBRA</b></i> :) <br>
+    - 🐢 Estudando <i><b>GML e Game desing</b></i> <br>
+
  </p>
 
 ##

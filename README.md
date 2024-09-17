@@ -41,6 +41,8 @@ Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções
 Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 
 - **Snake in Trouble**: Um projeto didático de um jogo estilo *Snake* desenvolvido no **GameMaker Studio**. Você pode conferir os tutoriais completos no [meu canal do YouTube](https://www.youtube.com/@mitchzito).
+
+- **Guia do programador python**: Livro didático que estou escrevendo, que será disponibilizado gratuitamente para qualquer um que tenha acesso a este repositório, o intuito do livro é ensinar de maneira prática e objetiva as pessoas o caminho para se tornar um desenvolvedor.
   
 - **Outros Projetos**: Ao longo do tempo, venho desenvolvendo pequenos projetos em **Python**, **JavaScript** e outras tecnologias, os quais você pode conferir diretamente nos meus repositórios aqui no GitHub.
 

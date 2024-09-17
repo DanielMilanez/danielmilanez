@@ -4,22 +4,17 @@
 </h1>
 
 <p align="center">
-    Cursando Engenharia de Computação e apaixonado por tecnologia! 🚀
+    Aapaixonado por tecnologia! 🚀
 </p>
 
----
+### Sobre Mim
 
-## Sobre Mim
-
-Olá! Sou **Daniel Augusto**, e estou em constante evolução no mundo da tecnologia, atualmente cursando **Engenharia de Computação**. Tenho experiência atuando como suporte técnico e estou expandindo meus conhecimentos na área de desenvolvimento de software, focando em backend com **Python**. Além disso, sou entusiasta em várias linguagens e tecnologias, como **JavaScript**, **C#**, **Java**, entre outras.
+Olá! Sou **Daniel Augusto**, e estou em constante evolução no mundo da tecnologia, atualmente cursando **Engenharia de Computação**. Tenho experiência atuando como suporte técnico e estou expandindo meus conhecimentos na área de desenvolvimento de software, focando em backend com **Python**. Além disso, sou entusiasta em várias linguagens e tecnologias, como **JavaScript**, **C#**, **Java**, **Lua**, entre outras.
 
 Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções escaláveis que impactem o mercado de tecnologia.
 
----
-
-## Tecnologias e Ferramentas
-
 <div align="center">
+    <h3>Tecnologias e ferramentas</h3>
     <a hef="https://beacons.ai/danielmilanez">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
@@ -35,13 +30,11 @@ Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções
     <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Dani-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">   
     <img align="center" alt="Dani-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Dani-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Dani-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />      
     <img align="center" alt="Dani-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" alt="Dani-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />        
 </div>
 
----
 
 ## Projetos
 
@@ -50,7 +43,6 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 - **Snake in Trouble**: Um projeto didático de um jogo estilo *Snake* desenvolvido no **GameMaker Studio**. Você pode conferir os tutoriais completos no [meu canal do YouTube](https://www.youtube.com/@mitchzito).
   
 - **Outros Projetos**: Ao longo do tempo, venho desenvolvendo pequenos projetos em **Python**, **JavaScript** e outras tecnologias, os quais você pode conferir diretamente nos meus repositórios aqui no GitHub.
----
 
 ## Conecte-se Comigo
 
@@ -59,5 +51,4 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
     <a href="https://www.youtube.com/@mitchzito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
----
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)

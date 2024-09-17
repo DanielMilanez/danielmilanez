@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/daniel-augusto-c-milanez/">Daniel Augusto</a>
   </h1>
 <p>
-    - 🐢 Estudando <i><b>GML e Game desing</b></i> <br>
+    Cursando engenharia de computação
 
  </p>
 

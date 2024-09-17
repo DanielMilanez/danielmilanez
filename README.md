@@ -19,6 +19,13 @@ Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções
 
 ## Tecnologias e Ferramentas
 
+<div align="center">
+    <a hef="https://beacons.ai/danielmilanez">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
+    </a>
+</div>
+
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -43,18 +50,6 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 - **Snake in Trouble**: Um projeto didático de um jogo estilo *Snake* desenvolvido no **GameMaker Studio**. Você pode conferir os tutoriais completos no [meu canal do YouTube](https://www.youtube.com/@mitchzito).
   
 - **Outros Projetos**: Ao longo do tempo, venho desenvolvendo pequenos projetos em **Python**, **JavaScript** e outras tecnologias, os quais você pode conferir diretamente nos meus repositórios aqui no GitHub.
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-    <a hef="https://beacons.ai/danielmilanez">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmilanez&show_icons=true&theme=merko"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilanez&layout=compact&theme=merko"/>
-    </a>
-</div>
-
 ---
 
 ## Conecte-se Comigo

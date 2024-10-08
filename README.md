@@ -50,7 +50,6 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 <div align="center"><br>
     <a href="mailto:daniel.augusto.milanez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/danielmilanez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://instagram.com/_mitchzito?igshid=ZDc4ODBmNjlmNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.youtube.com/@mitchzito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 

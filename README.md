@@ -8,6 +8,7 @@
 </p>
 
 ### Sobre Mim
+- 🇧🇷 competidor da WorldSkills #016 - Eletrónica - Representando DF
 
 Olá! Sou **Daniel Augusto**, e estou em constante evolução no mundo da tecnologia, atualmente cursando **Engenharia de Computação**. Tenho experiência atuando como suporte técnico e estou expandindo meus conhecimentos na área de desenvolvimento de software, focando em backend com **Python**. Além disso, sou entusiasta em várias linguagens e tecnologias, como **JavaScript**, **C#**, **Java**, **Lua**, entre outras.
 

@@ -6,7 +6,6 @@
 <p align="center">
     Apaixonado por tecnologia! 🚀
 </p>
-<i> 🇧🇷 competidor da WorldSkills #016 - Eletrónica </i>
 
 ### Sobre Mim
 

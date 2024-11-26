@@ -4,14 +4,12 @@
 </h1>
 
 <p align="center">
-    Apaixonado por tecnologia! 🚀
+    O mundo é pequeno demais para aqueles que sonham, por isso há a necessidade de criar novos! 🚀
 </p>
 
 ### Sobre Mim
 
-Olá! Sou **Daniel Augusto**, e estou em constante evolução no mundo da tecnologia, atualmente cursando **Engenharia de Computação**. Tenho experiência atuando como suporte técnico e estou expandindo meus conhecimentos na área de desenvolvimento de software, focando em backend com **Python**. Além disso, sou entusiasta em várias linguagens e tecnologias, como **JavaScript**, **C#**, **Java**, **Lua**, entre outras.
-
-Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções escaláveis que impactem o mercado de tecnologia.
+Olá! Sou **Daniel Augusto**, e pode-se dizer que sou um contador de histórias. Meu sonho é compartilhar conhecimento de forma gratuita e com muita qualidade. Meu objetivo atual é desbravar o desconhecido, investigando e inventando tudo o que minha mente imaginar. Este é o acervo das minhas criações, onde disponibilizo, de maneira gratuita e documentada, todo o conhecimento que adquiri ao longo do tempo, bem como o necessário para cada criação específica. Sinta-se à vontade para explorar este repositório!
 
 <div align="center">
     <h3>Tecnologias e ferramentas</h3>
@@ -22,15 +20,13 @@ Meu objetivo é dominar o desenvolvimento de software e trabalhar com soluções
 </div>
 
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Dani-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">   
-    <img align="center" alt="Dani-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Dani-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />      
+    <img align="center" alt="Dani-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+    <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Dani-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
     <img align="center" alt="Dani-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" alt="Dani-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />        
 </div>

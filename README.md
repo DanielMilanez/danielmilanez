@@ -1,6 +1,6 @@
 <h1 align="center">
     Oi, tudo bem? Eu sou o 
-    <a href="https://www.youtube.com/@mitchzito">Daniel Augusto</a>
+    <a href="https://www.youtube.com/@mitchzito" target="_blank">Daniel Augusto</a>
 </h1>
 
 <p align="center">
@@ -44,9 +44,9 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 ## Conecte-se Comigo
 
 <div align="center"><br>
-    <a href="mailto:daniel.augusto.milanez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/danielmilanez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.youtube.com/@mitchzito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="mailto:daniel.augusto.milanez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/danielmilanez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.youtube.com/@mitchzito" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)

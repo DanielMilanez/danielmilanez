@@ -1,6 +1,6 @@
 <h1 align="center">
     Oi, tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/danielmilanez/">Daniel Augusto</a>
+    <a href="https://www.youtube.com/@mitchzito">Daniel Augusto</a>
 </h1>
 
 <p align="center">

@@ -26,9 +26,11 @@ Olá! Sou **Daniel Augusto**, e pode-se dizer que sou um contador de histórias.
     <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Dani-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-    <img align="center" alt="Dani-ST" height="50" width="50" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20ST.png">
+    <img align="center" alt="Dani-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+    <img align="center" alt="Dani-ST" height="40" width="40" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20ST.png">
     <img align="center" alt="Dani-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />        
+    <img align="center" alt="Dani-GameMaker.png" height="40" width="40" src="./icons/icons8-game-maker-48.png" >
+
 </div>
 
 ## Projetos

@@ -23,6 +23,7 @@ Olá! Sou **Daniel Augusto**, e pode-se dizer que sou um contador de histórias.
     <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Dani-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+    <img align="center" alt="Dani-Java.png" height="40" width="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
     <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,6 +31,7 @@ Olá! Sou **Daniel Augusto**, e pode-se dizer que sou um contador de histórias.
     <img align="center" alt="Dani-ST" height="40" width="40" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20ST.png">
     <img align="center" alt="Dani-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />        
     <img align="center" alt="Dani-GameMaker.png" height="40" width="40" src="./icons/icons8-game-maker-48.png" >
+
 
 </div>
 

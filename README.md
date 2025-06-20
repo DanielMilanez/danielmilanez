@@ -9,7 +9,7 @@
 
 ### Sobre Mim
 
-Olá! Sou **Daniel Augusto**, e pode-se dizer que sou um contador de histórias. Meu sonho é compartilhar conhecimento de forma gratuita e com muita qualidade. Meu objetivo atual é desbravar o desconhecido, investigando e inventando tudo o que minha mente imaginar. Este é o acervo das minhas criações, onde disponibilizo, de maneira gratuita e documentada, todo o conhecimento que adquiri ao longo do tempo, bem como o necessário para cada criação específica. Sinta-se à vontade para explorar este repositório!
+Fala nego! Me chamo **Daniel Augusto**, e pode-se dizer que sou um contador de histórias. Meu sonho é compartilhar conhecimento de forma gratuita e com muita qualidade. Meu objetivo atual é desbravar o desconhecido, investigando e inventando tudo o que minha mente imaginar. Este é o acervo das minhas criações, onde disponibilizo, de maneira gratuita e documentada, todo o conhecimento que adquiri ao longo do tempo, bem como o necessário para cada criação específica. Sinta-se à vontade para explorar este repositório!
 
 <div align="center">
     <h3>Tecnologias e ferramentas</h3>
@@ -48,7 +48,7 @@ Aqui estão alguns dos projetos que desenvolvi e colaborei ao longo do tempo:
 ## Conecte-se Comigo
 
 <div align="center"><br>
-    <a href="https://www.instagram.com/oi.guto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/oi.guto" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:daniel.augusto.milanez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>   
     <a href="https://www.youtube.com/@mitchzito" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
